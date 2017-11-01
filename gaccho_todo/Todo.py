@@ -2,7 +2,7 @@ from Article import Article
 
 class Todo(Article):
     def color_pair(self):
-        return {"text":"CYAN", "back":"MAGENTA"}
+        return {"color_text":"CYAN", "color_back":"MAGENTA"}
 
     def get(self):
 
