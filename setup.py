@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 setup(
         name             = 'gaccho_todo',
         version          = '0.0.1',
-        description      = 'Gaccho ToDo Feed Plugin',
+        description      = 'Gaccho ToDo Plugin',
         license          = 'MIT',
         author           = 'nobiki',
         author_email     = 'test@example.com',
